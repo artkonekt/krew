@@ -16,5 +16,4 @@ use Konekt\Krew\Contracts\Absence as AbsenceContract;
 
 class Absence extends Model implements AbsenceContract
 {
-
 }
