@@ -1,5 +1,8 @@
 # Krew Is An HR Library For Laravel Applications
 
+**DISCONTINUED**: This project has been abandoned and is no longer being maintained.
+
+![This project has been abandoned](https://img.shields.io/badge/-discontinued-red?style=flat-square)
 [![Travis](https://img.shields.io/travis/artkonekt/krew.svg?style=flat-square)](https://travis-ci.org/artkonekt/krew)
 [![Packagist version](https://img.shields.io/packagist/v/konekt/krew.svg?style=flat-square)](https://packagist.org/packages/konekt/krew)
 [![Packagist downloads](https://img.shields.io/packagist/dt/konekt/krew.svg?style=flat-square)](https://packagist.org/packages/konekt/krew)
